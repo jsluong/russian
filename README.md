@@ -6,3 +6,6 @@ Given the digitized glass plates from Prokudin-Gorskii's project to document Rus
 
 To do this, we perform a number of matrix operations with NumPy and SciPy to generate the final image.
 
+----
+
+This is the code for the write-up. Repository does not contain final code.
